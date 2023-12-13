@@ -1,7 +1,9 @@
-// Fibonacci sequence lesson
-// Fibonacci sequence : a set of integers (the Fibonacci numbers) that starts with a zero, followed by a one, then by another one, and then by a series of steadily increasing numbers. the first two numbers in the sequence are 0 and 1.
-// the third number is the sum of previous two numbers.
-// fibonacci(2) = [0,1] , fibonacci(3) = [0,1,1], fibonacci(7) = [0,1,1,2,3,5,8]
+/*
+Fibonacci sequence lesson
+Fibonacci sequence : a set of integers (the Fibonacci numbers) that starts with a zero, followed by a one, then by another one, and then by a series of steadily increasing numbers. the first two numbers in the sequence are 0 and 1.
+the third number is the sum of previous two numbers.
+fibonacci(2) = [0,1] , fibonacci(3) = [0,1,1], fibonacci(7) = [0,1,1,2,3,5,8]
+*/
 
 // Problem : Give a number "n", find the first "n" element of the Fibonacci sequence
 // Solve By Big-O
