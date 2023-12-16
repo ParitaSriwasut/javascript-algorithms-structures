@@ -2,6 +2,7 @@
 Quick Sort takes in some data, puts it in order, then spits it out
 */
 
+// worst case : Big-O = O(n^2)
 function quickSort(arr) {
   if (arr.length < 2) {
     return arr;
